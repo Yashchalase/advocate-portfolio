@@ -80,9 +80,78 @@ emailjs: {
 
 ## Design
 
-- **Colors:** Navy/charcoal + gold accent + off-white background
+- **Colors:** Navy/charcoal + burgundy accent + off-white background
 - **Typography:** Playfair Display (headings) + Inter (body)
 - **Interactions:** Sticky navbar, scroll progress, animated counters, carousel, accordion FAQ, floating WhatsApp/call buttons
+
+## Deploy to GitHub
+
+The project is already committed locally on the `main` branch. Run these commands in the project folder:
+
+### 1. Log in to GitHub (one-time)
+
+```bash
+gh auth login
+```
+
+Choose **GitHub.com** → **HTTPS** → **Login with a web browser**, then follow the prompts.
+
+### 2. Create the repo and push
+
+```bash
+gh repo create advocate-portfolio --public --source=. --remote=origin --push --description "Modern advocate/lawyer portfolio website built with React and Vite"
+```
+
+If the repo name is taken, pick another name (e.g. `advocate-portfolio-site`).
+
+### Manual alternative (without GitHub CLI)
+
+1. Create a new empty repo at [github.com/new](https://github.com/new)
+2. Run:
+
+```bash
+git remote add origin https://github.com/YOUR_USERNAME/advocate-portfolio.git
+git push -u origin main
+```
+
+## Deploy live (Vercel — recommended)
+
+1. Push the code to GitHub (steps above)
+2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
+3. Click **Add New Project** → import `advocate-portfolio`
+4. Vercel auto-detects Vite — click **Deploy**
+
+Build settings (auto-detected):
+
+| Setting | Value |
+|---------|-------|
+| Build Command | `npm run build` |
+| Output Directory | `dist` |
+| Install Command | `npm install` |
+
+`vercel.json` is included for React Router SPA routing.
+
+### Deploy via Vercel CLI
+
+```bash
+npm i -g vercel
+vercel login
+vercel --prod
+```
+
+## Deploy live (Netlify — alternative)
+
+1. Push to GitHub
+2. Go to [netlify.com](https://netlify.com) → **Add new site** → **Import from Git**
+3. Select the repo — `netlify.toml` is already configured
+
+## After deployment
+
+Update your live URL in:
+
+- `src/data/siteConfig.js` → `url`
+- `public/sitemap.xml` → all `<loc>` URLs
+- `public/robots.txt` → Sitemap URL
 
 ## License
 
