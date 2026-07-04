@@ -32,12 +32,14 @@ export default function About() {
         <div className="container-custom">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <FadeIn>
-              <img
-                src={siteConfig.images.about}
-                alt={`${siteConfig.name} in professional setting`}
-                className="rounded-lg shadow-xl w-full object-cover aspect-[4/5]"
-                loading="lazy"
-              />
+              <div className="max-w-xs mx-auto lg:mx-0">
+                <img
+                  src={siteConfig.images.about}
+                  alt={`${siteConfig.name} in professional setting`}
+                  className="rounded-2xl shadow-xl w-full object-cover aspect-[4/5]"
+                  loading="lazy"
+                />
+              </div>
             </FadeIn>
             <FadeIn delay={0.2}>
               <h2 className="text-3xl font-serif font-bold text-navy-900 mb-6">My Story</h2>

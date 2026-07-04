@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.advrajeshmehta.com/sitemap.xml
+Sitemap: https://advocate-portfolio-demo-opal.vercel.app/sitemap.xml

@@ -5,7 +5,7 @@ export const siteConfig = {
   tagline: 'Dedicated Legal Counsel with Over Two Decades of Excellence in Indian Courts',
   description:
     'Advocate Rajesh Kumar Mehta is a seasoned High Court lawyer in Delhi specializing in criminal law, civil litigation, corporate law, family law, and property disputes. Book a confidential consultation today.',
-  url: 'https://www.advrajeshmehta.com',
+  url: 'https://advocate-portfolio-demo-opal.vercel.app',
   city: 'New Delhi',
   state: 'Delhi',
   country: 'India',
@@ -55,13 +55,13 @@ export const siteConfig = {
 
   images: {
     hero: 'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80',
-    about: 'https://images.unsplash.com/photo-1507679799987-c73779514587?w=800&q=80',
+    about: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=80',
     office: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80',
     courtroom: 'https://images.unsplash.com/photo-1589391886645-d51941baf7fb?w=800&q=80',
     portrait: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80',
     gallery: [
       'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=80',
-      'https://images.unsplash.com/photo-1507679799987-c73779514587?w=600&q=80',
+      'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80',
       'https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80',
       'https://images.unsplash.com/photo-1589391886645-d51941baf7fb?w=600&q=80',
     ],
