@@ -99,7 +99,6 @@ export const courts = [
   'Debt Recovery Tribunal (DRT)',
   'Consumer Disputes Redressal Commissions',
   'Real Estate Regulatory Authority (RERA) — Delhi',
-  'Securities Appellate Tribunal (SAT)',
 ];
 
 export const aboutBio = {
