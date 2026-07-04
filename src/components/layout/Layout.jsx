@@ -3,7 +3,6 @@ import Navbar from './Navbar';
 import Footer from './Footer';
 import ScrollProgress from './ScrollProgress';
 import ScrollToTop from './ScrollToTop';
-import BackToTop from './BackToTop';
 import FloatingActions from './FloatingActions';
 
 export default function Layout() {
@@ -16,7 +15,6 @@ export default function Layout() {
         <Outlet />
       </main>
       <Footer />
-      <BackToTop />
       <FloatingActions />
     </>
   );
