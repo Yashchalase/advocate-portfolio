@@ -94,9 +94,61 @@ export const blogPosts = [
 <p>The Registrar examines the application for distinctiveness and conflicts. If accepted, the mark is published in the Trademark Journal for a four-month opposition period. If no opposition is filed, the registration certificate is issued.</p>
     `,
   },
+  {
+    slug: 'company-incorporation-startup-india',
+    title: 'Company Incorporation in India: Legal Checklist for Startups',
+    excerpt:
+      'A practical guide to registering a private limited company in India — documents, compliance, founder agreements, and common mistakes to avoid.',
+    category: 'Corporate Law',
+    date: '2025-02-18',
+    readTime: '7 min read',
+    author: 'Adv. Rajesh Kumar Mehta',
+    image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80',
+    content: `
+<p>Starting a business in India begins with choosing the right legal structure. For most startups seeking investment and scalability, a private limited company under the Companies Act, 2013 is the preferred choice.</p>
+
+<h2>Steps to Incorporate a Company</h2>
+<p>The process involves obtaining Digital Signature Certificates (DSC) for directors, applying for Director Identification Numbers (DIN), reserving the company name through the MCA portal, and filing SPICe+ form along with MOA and AOA. With proper documentation, incorporation can be completed within 7–10 working days.</p>
+
+<h2>Essential Post-Incorporation Compliance</h2>
+<p>After incorporation, companies must obtain PAN and TAN, open a bank account, appoint a statutory auditor within 30 days, and file annual returns and financial statements. Non-compliance can result in penalties and disqualification of directors.</p>
+
+<h2>Founder Agreements Matter</h2>
+<p>Before raising funds or hiring employees, founders should execute a shareholders' agreement covering equity split, vesting schedules, exit clauses, and dispute resolution. This prevents costly conflicts as the business grows.</p>
+
+<h2>When to Consult a Corporate Lawyer</h2>
+<p>Engage legal counsel early for incorporation, contract drafting, IP assignment, and regulatory compliance. Proactive legal planning is far less expensive than resolving disputes later.</p>
+    `,
+  },
+  {
+    slug: 'recovery-suit-defaulter-delhi',
+    title: 'How to Recover Money from a Defaulter: Filing a Recovery Suit in Delhi',
+    excerpt:
+      'Step-by-step guide to filing a civil recovery suit in Delhi courts when someone owes you money — documents, timeline, and enforcement options.',
+    category: 'Civil Litigation',
+    date: '2025-01-30',
+    readTime: '8 min read',
+    author: 'Adv. Rajesh Kumar Mehta',
+    image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80',
+    content: `
+<p>When a borrower, tenant, contractor, or business partner fails to pay what they owe, a civil recovery suit is often the most effective legal remedy. Delhi courts regularly adjudicate money recovery cases under Order XXXVII (summary suit) and ordinary civil procedure.</p>
+
+<h2>When Can You File a Recovery Suit?</h2>
+<p>You can file when there is a clear contractual or legal obligation to pay — backed by invoices, agreements, cheques, promissory notes, or written acknowledgments of debt. Oral agreements are harder to prove but can still be enforced with supporting evidence such as bank transfers and correspondence.</p>
+
+<h2>Documents You Will Need</h2>
+<p>Gather the original contract or agreement, all invoices and payment records, demand notices sent to the defaulter, bounced cheque memos (if applicable), and any admission of liability in writing or email. A well-documented case significantly improves recovery prospects.</p>
+
+<h2>Summary Suit vs. Ordinary Suit</h2>
+<p>Order XXXVII summary suits apply when the claim is based on a written contract, bill of exchange, or promissory note. The defendant must obtain leave to defend, making recovery faster. Ordinary suits apply in broader circumstances but typically take longer.</p>
+
+<h2>After Obtaining a Decree</h2>
+<p>Winning the case is only half the battle. Execution proceedings allow attachment of bank accounts, property, and salary to recover the awarded amount. An experienced advocate ensures the decree is enforced efficiently.</p>
+    `,
+  },
 ];
 
-export const blogCategories = ['All', 'Criminal Law', 'Property Law', 'Family Law', 'Corporate Law', 'Intellectual Property'];
+export const blogCategories = ['All', 'Criminal Law', 'Property Law', 'Family Law', 'Corporate Law', 'Civil Litigation', 'Intellectual Property'];
 
 export const getBlogPostBySlug = (slug) => blogPosts.find((post) => post.slug === slug);
 
