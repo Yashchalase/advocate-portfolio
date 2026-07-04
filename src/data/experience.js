@@ -95,8 +95,11 @@ export const courts = [
   'District Courts — Delhi NCR',
   'Family Courts — Delhi',
   'National Company Law Tribunal (NCLT)',
+  'National Company Law Appellate Tribunal (NCLAT)',
   'Debt Recovery Tribunal (DRT)',
   'Consumer Disputes Redressal Commissions',
+  'Real Estate Regulatory Authority (RERA) — Delhi',
+  'Securities Appellate Tribunal (SAT)',
 ];
 
 export const aboutBio = {
