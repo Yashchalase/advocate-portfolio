@@ -109,6 +109,15 @@ export const siteConfig = {
     { label: 'Blog', path: '/blog' },
     { label: 'Contact', path: '/contact' },
   ],
+
+  disclaimer: {
+    storageKey: 'advocate-disclaimer-acknowledged',
+    paragraphs: [
+      'The Bar Council of India does not permit advertisement or solicitation by advocates in any form or manner. By accessing this website, you acknowledge and confirm that you are seeking information relating to me, {name}, of your own accord and that there has been no form of solicitation, advertisement, or inducement by me.',
+      'The content of this website is for informational purposes only and should not be interpreted as soliciting or advertisement. No material or information provided here should be construed as legal advice. I shall not be liable for consequences of any action taken by relying on the material or information provided on this website.',
+    ],
+    acknowledgeLabel: 'I Acknowledge & Enter Website',
+  },
 };
 
 export default siteConfig;
