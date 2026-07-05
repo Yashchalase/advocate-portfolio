@@ -60,8 +60,8 @@ export function LegalServiceSchema() {
     },
     geo: {
       '@type': 'GeoCoordinates',
-      latitude: 28.6109,
-      longitude: 77.2295,
+      latitude: 28.6315,
+      longitude: 77.2167,
     },
     openingHoursSpecification: [
       {

@@ -17,16 +17,16 @@ export const siteConfig = {
     email: 'contact@demo-advocate.com',
     whatsapp: '919876543210',
     address: {
-      street: 'Chamber No. 412, Lawyers\' Chambers Block',
-      area: 'Delhi High Court, Sher Shah Road',
+      street: 'Office 12, 3rd Floor, Demo Legal Chambers',
+      area: 'B-Block, Inner Circle, Connaught Place',
       city: 'New Delhi',
       state: 'Delhi',
-      pincode: '110003',
+      pincode: '110001',
       country: 'India',
-      full: 'Chamber No. 412, Lawyers\' Chambers Block, Delhi High Court, Sher Shah Road, New Delhi – 110003',
+      full: 'Office 12, 3rd Floor, Demo Legal Chambers, B-Block, Inner Circle, Connaught Place, New Delhi – 110001',
     },
     mapEmbedUrl:
-      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.123456789!2d77.2295!3d28.6109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM2JzM5LjIiTiA3N8KwMTMnNDYuMiJF!5e0!3m2!1sen!2sin!4v1234567890',
+      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.8476!2d77.2167!3d28.6315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd1b9e5b8b0b%3A0x9e8b8b8b8b8b8b8b!2sConnaught%20Place%2C%20New%20Delhi!5e0!3m2!1sen!2sin!4v1700000000000',
     officeHours: [
       { days: 'Monday – Friday', hours: '10:00 AM – 6:00 PM' },
       { days: 'Saturday', hours: '10:00 AM – 2:00 PM' },
