@@ -103,11 +103,11 @@ export const courts = [
 
 export const aboutBio = {
   intro:
-    'Advocate Rajesh Kumar Mehta is a distinguished legal practitioner with over 23 years of experience before the Delhi High Court, Supreme Court of India, and various tribunals. Known for his meticulous preparation, courtroom advocacy, and client-centric approach, he has built a reputation as one of Delhi\'s most trusted advocates.',
+    'Advocate Demo User is a distinguished legal practitioner with over 23 years of experience before the Delhi High Court, Supreme Court of India, and various tribunals. Known for his meticulous preparation, courtroom advocacy, and client-centric approach, he has built a reputation as one of Delhi\'s most trusted advocates.',
   paragraphs: [
-    'After completing his LL.B. from the Faculty of Law, University of Delhi, and enrolling with the Bar Council of Delhi in 2001, Adv. Mehta began his career under the mentorship of eminent Senior Advocate Harish Salve. This formative experience instilled in him a deep understanding of constitutional law, commercial litigation, and the art of persuasive advocacy.',
+    'After completing his LL.B. from the Faculty of Law, University of Delhi, and enrolling with the Bar Council of Delhi in 2001, Adv. Demo User began his career under the mentorship of eminent Senior Advocate Harish Salve. This formative experience instilled in him a deep understanding of constitutional law, commercial litigation, and the art of persuasive advocacy.',
     'Over the years, he has expanded his practice to encompass criminal law, civil litigation, corporate advisory, family law, property disputes, and intellectual property. His diverse practice allows him to offer comprehensive legal solutions — whether you are an individual facing a criminal charge, a family navigating a divorce, or a business requiring corporate compliance.',
-    'Adv. Mehta believes that every client deserves honest counsel, realistic expectations, and relentless representation. He combines traditional legal values with modern strategic thinking, ensuring that each case is approached with the attention and expertise it deserves.',
+    'Adv. Demo User believes that every client deserves honest counsel, realistic expectations, and relentless representation. He combines traditional legal values with modern strategic thinking, ensuring that each case is approached with the attention and expertise it deserves.',
   ],
 };
 

@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: 'Adv. Rajesh Kumar Mehta',
-  shortName: 'Adv. R.K. Mehta',
+  name: 'Adv. Demo User',
+  shortName: 'Adv. Demo User',
   title: 'Advocate, High Court of Delhi',
   tagline: 'Dedicated Legal Counsel with Over Two Decades of Excellence in Indian Courts',
   description:
-    'Advocate Rajesh Kumar Mehta is a seasoned High Court lawyer in Delhi specializing in criminal law, civil litigation, corporate law, family law, and property disputes. Book a confidential consultation today.',
+    'Advocate Demo User is a seasoned High Court lawyer in Delhi specializing in criminal law, civil litigation, corporate law, family law, and property disputes. Book a confidential consultation today.',
   url: 'https://advocate-portfolio-demo-opal.vercel.app',
   city: 'New Delhi',
   state: 'Delhi',
@@ -14,7 +14,7 @@ export const siteConfig = {
   contact: {
     phone: '+91 98765 43210',
     phoneDisplay: '+91 98765 43210',
-    email: 'contact@advrajeshmehta.com',
+    email: 'contact@demo-advocate.com',
     whatsapp: '919876543210',
     address: {
       street: 'Chamber No. 412, Lawyers\' Chambers Block',
@@ -35,9 +35,9 @@ export const siteConfig = {
   },
 
   social: {
-    linkedin: 'https://linkedin.com/in/advrajeshmehta',
-    twitter: 'https://twitter.com/advrajeshmehta',
-    facebook: 'https://facebook.com/advrajeshmehta',
+    linkedin: 'https://linkedin.com/in/demo-advocate',
+    twitter: 'https://twitter.com/demo-advocate',
+    facebook: 'https://facebook.com/demo-advocate',
   },
 
   barCouncil: {

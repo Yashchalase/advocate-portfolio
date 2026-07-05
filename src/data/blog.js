@@ -7,7 +7,7 @@ export const blogPosts = [
     category: 'Property Law',
     date: '2025-06-15',
     readTime: '8 min read',
-    author: 'Adv. Rajesh Kumar Mehta',
+    author: 'Adv. Demo User',
     image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80',
     content: `
 <p>Property disputes are among the most common legal challenges faced by Delhi residents. Whether you are dealing with illegal possession, a defective title, or a family partition matter, understanding your legal options is the first step toward resolution.</p>
@@ -33,7 +33,7 @@ export const blogPosts = [
     category: 'Criminal Law',
     date: '2025-05-28',
     readTime: '6 min read',
-    author: 'Adv. Rajesh Kumar Mehta',
+    author: 'Adv. Demo User',
     image: 'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80',
     content: `
 <p>Anticipatory bail is a pre-arrest legal protection granted under Section 438 of the Code of Criminal Procedure, 1973. It allows a person to seek bail in anticipation of arrest in connection with a non-bailable offense.</p>
@@ -56,7 +56,7 @@ export const blogPosts = [
     category: 'Family Law',
     date: '2025-04-10',
     readTime: '7 min read',
-    author: 'Adv. Rajesh Kumar Mehta',
+    author: 'Adv. Demo User',
     image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80',
     content: `
 <p>Mutual consent divorce is the most amicable way for couples to legally end their marriage when both parties agree. In Delhi, these petitions are filed before the Family Court having jurisdiction over the area where the couple last resided together.</p>
@@ -79,7 +79,7 @@ export const blogPosts = [
     category: 'Intellectual Property',
     date: '2025-03-22',
     readTime: '9 min read',
-    author: 'Adv. Rajesh Kumar Mehta',
+    author: 'Adv. Demo User',
     image: 'https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800&q=80',
     content: `
 <p>Registering a trademark protects your brand identity and gives you exclusive rights to use your mark in connection with specified goods or services. Here is what you need to know about the current registration process.</p>
@@ -102,7 +102,7 @@ export const blogPosts = [
     category: 'Corporate Law',
     date: '2025-02-18',
     readTime: '7 min read',
-    author: 'Adv. Rajesh Kumar Mehta',
+    author: 'Adv. Demo User',
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80',
     content: `
 <p>Starting a business in India begins with choosing the right legal structure. For most startups seeking investment and scalability, a private limited company under the Companies Act, 2013 is the preferred choice.</p>
@@ -128,7 +128,7 @@ export const blogPosts = [
     category: 'Civil Litigation',
     date: '2025-01-30',
     readTime: '8 min read',
-    author: 'Adv. Rajesh Kumar Mehta',
+    author: 'Adv. Demo User',
     image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80',
     content: `
 <p>When a borrower, tenant, contractor, or business partner fails to pay what they owe, a civil recovery suit is often the most effective legal remedy. Delhi courts regularly adjudicate money recovery cases under Order XXXVII (summary suit) and ordinary civil procedure.</p>

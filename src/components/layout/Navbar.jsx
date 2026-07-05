@@ -31,7 +31,7 @@ export default function Navbar() {
       <nav className="container-custom flex items-center justify-between px-4 sm:px-6 lg:px-8" aria-label="Main navigation">
         <Link to="/" className="flex items-center gap-3 group">
           <div className="w-10 h-10 rounded-lg bg-accent-500 flex items-center justify-center font-serif font-bold text-white text-lg shadow-lg shadow-accent-500/30 group-hover:scale-105 transition-transform">
-            RM
+            DU
           </div>
           <div className="hidden sm:block">
             <p className="font-serif font-semibold text-white text-sm leading-tight group-hover:text-accent-400 transition-colors">

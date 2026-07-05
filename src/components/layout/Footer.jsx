@@ -13,7 +13,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-5">
               <div className="w-10 h-10 rounded-lg bg-accent-500 flex items-center justify-center font-serif font-bold text-white text-lg shadow-lg shadow-accent-500/20">
-                RM
+                DU
               </div>
               <div>
                 <p className="font-serif font-semibold text-white">{siteConfig.shortName}</p>

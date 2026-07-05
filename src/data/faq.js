@@ -1,6 +1,6 @@
 export const faqItems = [
   {
-    question: 'How do I book a consultation with Adv. Mehta?',
+    question: 'How do I book a consultation with Adv. Demo User?',
     answer:
       'You can book a consultation through the Consultation page on this website, call our office directly at +91 98765 43210, or send a WhatsApp message. Initial consultations are typically scheduled within 2–3 business days.',
   },
